@@ -1,2 +1,2 @@
 # PrimeNumbers
-it's my first swing application on java
+It's my first Swing application on java
